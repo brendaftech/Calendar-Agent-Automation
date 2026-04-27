@@ -1,0 +1,27 @@
+                                        🔗 ACESSO AO PROJETO
+-------------------------------------------------------------------------------------------------------
+Este projeto conta com um Agente de Agendamento automatizado integrado ao n8n,além de uma planilha no 
+Google Sheets para registro dos eventos criados pelos usuários.
+-------------------------------------------------------------------------------------------------------
+                                      🤖💬 AGENTE DE AGENDAMENTO
+-------------------------------------------------------------------------------------------------------
+Para utilizar o agente, basta informar o nome do evento, a data e o horário.O sistema realiza o 
+processamento automático e cria o evento diretamenteno Google Calendar por meio do fluxo no n8n.
+
+👉 link disponivel em breve
+-------------------------------------------------------------------------------------------------------
+                             📗🔗 REGISTRO DE DADOS (Google Sheets)
+-------------------------------------------------------------------------------------------------------
+Todos os agendamentos realizados são registrados automaticamente em uma
+planilha do Google Sheets.Nela ficam armazenados dados como:
+
+-Usuário;
+-Evento;
+-Data;
+-Hora.
+
+Essas informações permitem organização, controle e acompanhamento dos
+eventos criados pelo sistema.
+
+👉 hhttps://docs.google.com/spreadsheets/d/13cvYGRUlZxidiXyrvPnxROCf1_WuRtHv5PvHyT9yVrE/edit?usp=sharing
+-------------------------------------------------------------------------------------------------------
